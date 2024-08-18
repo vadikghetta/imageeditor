@@ -1,7 +1,7 @@
 {
-    "name": "my-starter-react-app",
-    "version": "1.0.0",
-    "description": "react starter app",
+    "name": "image-editor",
+    "version": "1.0.1",
+    "description": "my image editor",
     "main": "index.js",
     "scripts": {
         "lint": "eslint .",
@@ -42,7 +42,6 @@
         "eslint-webpack-plugin": "^4.2.0",
         "file-loader": "^6.2.0",
         "fork-ts-checker-webpack-plugin": "^9.0.2",
-        "gh-pages": "^6.1.1",
         "globals": "^15.8.0",
         "html-webpack-plugin": "^5.6.0",
         "identity-obj-proxy": "^3.0.0",

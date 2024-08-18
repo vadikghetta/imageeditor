@@ -11,9 +11,6 @@ if (!rootNode) {
 	throw new Error("Not found root");
 }
 
-createRoot(rootNode).render(
-
-	<App />
-);
+createRoot(rootNode).render(<App />);
 
 
